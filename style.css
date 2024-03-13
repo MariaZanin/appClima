@@ -2,6 +2,8 @@
 
 body{
     font-family: 'Arvo', serif;
+    background-color: rgb(84, 206, 255);
+    margin-top: 100px;
 }
 
 .city{
@@ -15,10 +17,10 @@ body{
 .container-temp{
     display: flex;
     justify-content: center;
-    background-color: rgba(244, 208, 63, 0.2);
+    background-color: rgb(84, 206, 255);
     box-shadow: 5px 6px rgba(0, 0, 0, 0.6);
     cursor: pointer;
-
+    
     font-size: 100px;
     font-weight: 900;
     text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
